@@ -11,6 +11,9 @@
   <name>gitmvnpractice</name>
   <url>http://maven.apache.org</url>
   
+  <properties>
+  </properties>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -19,5 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <build></build>
   
 </project>
